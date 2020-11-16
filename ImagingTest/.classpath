@@ -7,10 +7,23 @@
 	<classpathentry kind="lib" path="lib/commons-imaging-1.0-alpha2-test-sources.jar"/>
 	<classpathentry kind="lib" path="lib/commons-imaging-1.0-alpha2-tests.jar"/>
 	<classpathentry kind="lib" path="lib/commons-imaging-1.0-alpha2.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="lib/hk2-mockito-2.5.0-b63-javadoc.jar"/>
 	<classpathentry kind="lib" path="lib/hk2-mockito-2.5.0-b63-sources.jar"/>
 	<classpathentry kind="lib" path="lib/hk2-mockito-2.5.0-b63.jar"/>
 	<classpathentry kind="lib" path="lib/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/org.apiguardian_1.1.0.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.hamcrest.core_1.3.0.v20180420-1519.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.jupiter.api_5.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.jupiter.engine_5.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.jupiter.migrationsupport_5.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.jupiter.params_5.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.platform.commons_1.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.platform.engine_1.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.platform.launcher_1.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.platform.runner_1.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.platform.suite.api_1.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit.vintage.engine_5.5.1.v20190826-0900.jar"/>
+	<classpathentry kind="lib" path="lib/org.opentest4j_1.2.0.v20190826-0900.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
